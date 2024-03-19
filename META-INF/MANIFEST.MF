@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: N6yfeP63QZvK/jPKLqL48pQfHCoMUjw9IONF/p0nna0=
+
+Name: classes.dex
+SHA-256-Digest: cPZaXcLZ7qcx7/5IrLv90vGn7+FRtkfzDkoSRpH83DA=
+
+Name: classes2.dex
+SHA-256-Digest: swXzMbfESMK88JRW8tBiikmww3RMEOFg99DQj2yVu7Y=
+
+Name: classes3.dex
+SHA-256-Digest: qwyvLsbgS6OUXuVKoaYuocLgtNGGT4y8S3LasnXvcCw=
+
+Name: classes4.dex
+SHA-256-Digest: SNyWFv9DurWiY+99YTgRTHc5MG9VMWmduChIz9VK/Fk=
+
+Name: classes5.dex
+SHA-256-Digest: i2FtlNTg0qIBHEzSw55vSdVtXjWyCZG3NfFFHwngfO4=
+
+Name: okhttp3/internal/publicsuffix/publicsuffixes.gz
+SHA-256-Digest: vo2mhtIIs05LPwv5CqLgt2OClWQRMsPwyqgbA0mQMv8=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA-256-Digest: 0KGEz2GnQhje2EiZYoXxf3Nbt5oGr1rLm0R5DvjH/TI=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA-256-Digest: B0d9ijOaAGx/hf4odj1JhA/R45GJYIgbcpizgNCiiUc=
+
+Name: res/drawable-xhdpi-v4/treologoconejo.png
+SHA-256-Digest: rHnX/smgAYXDBvHM/2XZs0CMa2gA8rypg0PTM2Kwcz4=
+
+Name: res/layout/main.xml
+SHA-256-Digest: eXBprtFDuR2nABi5x3J1xTFTzife0fT6Lm8C4tBuoz0=
+
+Name: res/layout/vvs.xml
+SHA-256-Digest: yAtsEkq8Pv+DXfmZUs2oT9rxowuFJjTkRZeRTzEBKqc=
+
+Name: resources.arsc
+SHA-256-Digest: LnI5Dm4xNPB/WhZKJeV9lIC+Ou/x+NP0Y2pRTerudj4=
+

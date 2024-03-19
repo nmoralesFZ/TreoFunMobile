@@ -1,0 +1,44 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: CpoNFc5EXvR0jOWKqV5/mfm9UCIf1uxJi6DJMCIQNP8=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: fFy6L4ez7DK1me7LrVNzJfEPC5JVt16UzhBc9p3rB30=
+
+Name: classes.dex
+SHA-256-Digest: GRnGv4ZrxbNSW/5n69ox5XNsgpal0KdC2sgFpHqsSRc=
+
+Name: classes2.dex
+SHA-256-Digest: tm1u9rbH+Yph5EA8M6aivBFTS5Mth9LSPiCXUk7D4zc=
+
+Name: classes3.dex
+SHA-256-Digest: a7HymEqkBsyrn0uUizjo6E8Jiod5uio7+GFv8xbdjvM=
+
+Name: classes4.dex
+SHA-256-Digest: RvSqF9J2Uh6MW6zTywsEClJ9ZW41jifGeDRiUd1NBVE=
+
+Name: classes5.dex
+SHA-256-Digest: xcWdwKM7M26abfqNkdtC7RMI37JxJqBXkzvwlfluESQ=
+
+Name: okhttp3/internal/publicsuffix/publicsuffixes.gz
+SHA-256-Digest: q3PmZLeqG/rSkGldAD1dBfM3Ql9BbIQ/f+h2zBvPYzg=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA-256-Digest: MFf+8sGxZeXB+zFJyVzURUiEp8Fto3UzCMB4VKos7Fw=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA-256-Digest: aktsDrhwy3ex8ad59r3aoV+5TJncFYVy98Lcvjc4s44=
+
+Name: res/drawable-xhdpi-v4/treologoconejo.png
+SHA-256-Digest: kHxa9Nc1NvfVIH+UWnHUcwiAjCPcqb3kE/u9SXT31ns=
+
+Name: res/layout/main.xml
+SHA-256-Digest: TJ96k0ZneAyxf5bL4MZTnueigjshgx4xna0susCNv9I=
+
+Name: res/layout/vvs.xml
+SHA-256-Digest: gq6YNYHCsfJmVgqVCeaOVmC0+fEY7fbmmgyOZvXKDio=
+
+Name: resources.arsc
+SHA-256-Digest: J2BW3WMMRGsqwyRh/xrAhVyoMRotrIZlU+PpuIpZHWk=
+
